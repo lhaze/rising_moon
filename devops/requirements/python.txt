@@ -1,0 +1,8 @@
+pip==10.0.1
+wheel==0.31.1
+
+frozendict==1.2
+ruamel.yaml==0.15.44  # substitute of PyYaml because it fixes "sequence as a key of a mapping" problem
+sqlalchemy==1.2.10
+colander==1.4
+ColanderAlchemy==0.3.3

@@ -1,0 +1,9 @@
+-r ./python.txt
+
+# dev tools
+ipython==6.2.1
+pdbpp==0.9.2
+
+# test tools
+pytest==3.6.3
+pytest-flake8==1.0.1
